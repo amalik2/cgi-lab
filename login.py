@@ -28,7 +28,6 @@ if (formUser == None):
                 formUser = value
             elif ("password" in key):
                 formPass = value
-        print("Yeet: " + cookie_string)
     except:
         pass
 
